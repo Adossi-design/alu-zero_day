@@ -1,0 +1,7 @@
+cd path/to/alu-zero_day/git
+git pull origin main
+touch up_to_date
+echo "git pull origin main" > up_to_date
+git add up_to_date
+git commit -m "How to be up to date in git"
+git push origin main
