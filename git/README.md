@@ -1,1 +1,1 @@
-my README in git directory
+The school is open!
